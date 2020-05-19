@@ -1,0 +1,22 @@
+h1 {
+    background-color: black; 
+    color: white; 
+    text-align: center;
+    padding-top: 30px; 
+    padding-bottom: 30px; 
+    margin-bottom: 0px; 
+}
+
+form {
+    background-color: #A9A9A9; 
+    text-align: center; 
+    padding: 5px 0px; 
+}
+
+label{
+    margin-right: 5px; 
+}
+
+select{
+    margin-right: 10px; 
+}
